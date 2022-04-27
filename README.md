@@ -1,2 +1,2 @@
 # mxd
-git study
+git study..
